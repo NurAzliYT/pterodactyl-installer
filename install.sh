@@ -46,7 +46,7 @@ welcome ""
 done=false
 while [ "$done" == false ]; do
   options=(
-    "Install the panel"
+    "Unduh Panel"
     "Install Wings"
     "Install both [0] and [1] on the same machine (wings script runs after panel)"
     # "Uninstall panel or wings\n"
