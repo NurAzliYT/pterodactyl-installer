@@ -2,9 +2,6 @@
 
 set -e
 
-https://github.com/pterodactyl-installer/pterodactyl-installer                     #
-#                                                                                    #
-######################################################################################
 
 export GITHUB_SOURCE="v1.0.0"
 export SCRIPT_RELEASE="v1.0.0"
